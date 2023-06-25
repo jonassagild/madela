@@ -9,7 +9,7 @@ import Image from 'next/image';
 
 const navigation = [
   { name: 'Home', href: '/' },
-  { name: 'Analysis', href: '/analysis' },
+  { name: 'Analysis', href: '/health_analysis' },
 ];
 
 function classNames(...classes: string[]) {
